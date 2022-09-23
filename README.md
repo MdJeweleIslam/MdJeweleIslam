@@ -22,7 +22,7 @@
 - 🌱 Learning all about **DevOps & Cyber Security**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **PHP**, **WordPress**
 - 📫 Reach me in Twitter: [@md_jewele](https://twitter.com/md_jewele)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](files/Md-Jewele-Islam.pdf).
 
 #### My Current Stack
 
