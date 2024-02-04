@@ -11,8 +11,8 @@
 
 #### Now
 
-- :fire: Now working in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to cybersecurity related python based open source projects 
+- :fire: Now working in Python Django and Cybersecurity;
+- :calendar: Looking to contribute to cybersecurity-related python based open source projects 
 
 #### Bio
 
