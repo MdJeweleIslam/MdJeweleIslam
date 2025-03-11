@@ -1,4 +1,4 @@
-## Hi 👋, As a Software Engineer and Cyber Security Expert, I'm working at Arena Web Security.
+## Hi 👋, As a Software Engineer, I'm working at Bilregistret AI.
 
 <p align="left">
   <a href="https://stackoverflow.com/users/7477996/md-jewele-islam">
@@ -16,7 +16,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Arena Web Security**
+- 🏢 I'm currently working at **Bilregistret AI**
 - ⚙️ I use daily: `.py`, `.php`, `.sql`, `.js`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps & Cyber Security**
